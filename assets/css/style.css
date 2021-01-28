@@ -1,0 +1,51 @@
+* {
+  background-color: black;
+}
+.main {
+  padding-top: 100px;
+  width: auto;
+  height: 250px;
+}
+
+
+.pic {
+  background-color: black;
+  width: 200px;
+  height: 300px;
+  margin-left: auto;
+  display: block;
+  margin: auto;
+}
+
+.pic p
+
+{
+  color: #111;
+  font-family: ‘Helvetica Neue’, sans-serif;
+  letter-spacing: -1px;
+  font: arial;
+  font-size: 150%;
+  width: auto;
+  height: auto;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.social
+{
+  width: 32px;
+  height: auto;
+  color: white;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text {
+  width: 100px;
+  height: 100px;
+  color: white;
+  margin-right: 100px;
+}
+
