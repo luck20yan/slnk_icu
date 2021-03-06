@@ -10,7 +10,12 @@
   height: 100%;
 }
 
-
+#userpic
+{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
 .pic {
   margin-top: 100px;
   background-color: black;
@@ -57,25 +62,11 @@
   background-color: black;
   margin: 20px;
 }
-
-.social1
+.logo
 {
-  width: auto;
-  height: auto;
-  color: white;
-  background-color: black;
-  margin: 20px;
+  width: 32px;
+  height: 32px;
 }
-
-.social2
-{
-  width: auto;
-  height: auto;
-  color: white;
-  background-color: black;
-  margin: 20px;
-}
-
 .text {
   width: 100px;
   height: 100px;
